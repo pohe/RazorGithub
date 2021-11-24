@@ -9,5 +9,16 @@ namespace RazorGithub.Models
     {
 
         // Denne klasse er lavet i Sprint2POHE
+        private int _id;
+
+        public int Id
+        {
+            get { return _id; }
+            set { _id = value; }
+        }
+
+        public string Name { get; set; }
+
+
     }
 }
