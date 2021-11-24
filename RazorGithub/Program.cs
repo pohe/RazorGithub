@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 namespace RazorGithub
 {
     public class Program
-    {
+    {  //Added comment i remote
         public static void Main(string[] args)
         {
             CreateHostBuilder(args).Build().Run();
