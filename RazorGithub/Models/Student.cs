@@ -7,7 +7,7 @@ namespace RazorGithub.Models
 {
     public class Student
     {
-
+        // der skal tilføjes noget her
         // Denne klasse er lavet i Sprint2POHE
         private int _id;
 
