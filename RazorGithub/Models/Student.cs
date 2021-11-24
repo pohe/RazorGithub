@@ -9,5 +9,11 @@ namespace RazorGithub.Models
     {
 
         // Denne klasse er lavet i Sprint2POHE
+
+
+        public Student()
+        {
+            
+        }
     }
 }
